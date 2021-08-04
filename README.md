@@ -13,3 +13,6 @@ HOW TO USE:
 
 
 To delete a square simply hover over it and click the delete button
+
+
+To use this program you need to install the module Pygame
